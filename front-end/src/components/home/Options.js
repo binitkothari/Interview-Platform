@@ -26,7 +26,7 @@ export default function Options() {
                     <img src="images/notepad.jpg" className="card-img" alt="notepad"/>
                     <div className="card-body">
                         <h6 className="card-title text-center">Live Notepad</h6>
-                        <p className="card-text">Live notepad is your online notepad on the web. It allows you to store notes on the GO without having to Login. Best of all - anotepad is a fast, clean, simple to use and FREE online web notepad.</p>
+                        <p className="card-text">Live notepad is your online notepad on the web. It allows you to store notes on the GO without having to Login. Best of all - a notepad is a fast, clean, simple to use and FREE online web notepad.</p>
                         <Link to="/notepad"><p className="btn btn-success m-auto d-block">View</p></Link>
                     </div>
                 </div>

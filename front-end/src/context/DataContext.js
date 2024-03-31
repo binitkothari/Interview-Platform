@@ -4,7 +4,7 @@ export const Data = createContext();
 
 export default class DataContext extends Component {
     state = {
-        name: 'Arun',
+        name: 'Binit',
         schno: '171112031'
     }
 

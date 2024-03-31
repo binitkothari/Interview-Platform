@@ -28,7 +28,7 @@ export default function Sidebar() {
                     <div className="box border-bottom">
                             <div className="bg-primary text-center py-1 text-white mt-3">Box1</div>
                             <div className="bg-light px-2 py-3">
-                                Praesent dapibus, neque id cursus faucibus, tortor neque egestas auguae, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+                                Step into the future of hiring with our cutting-edge virtual interview platform. Say goodbye to scheduling headaches and hello to seamless connections, no matter where you are in the world. Elevate your recruitment process and discover top talent like never before.
                             </div>
                     </div>
                 </div>
